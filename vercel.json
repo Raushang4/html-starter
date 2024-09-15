@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/excel/:match*",
+        "destination": "https://excel.vercel.app/:match*"
+      }
+    ]
+  }
